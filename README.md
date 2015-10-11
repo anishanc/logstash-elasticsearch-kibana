@@ -23,3 +23,7 @@ filter {
 }
 
 
+Introduction to Logstash Grok Patterns
+http://svops.com/blog/introduction-to-logstash-grok-patterns/
+
+https://grokdebug.herokuapp.com/
